@@ -1,16 +1,328 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0D1117,1E1B4B,4F46E5,7C3AED,A78BFA&height=240&section=header&text=Apurba%20Ghosh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-<!--
-**Apurba-0001/Apurba-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Distributed+Systems+%26+Cloud+Native+Backends;Production-Grade+LLM+Architecture+%26+Agent+Swarms;High-Throughput+Event-Driven+Microservices;Mission-Critical+Full+Stack+Product+Engineering" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science%20%26%20Engineering-4F46E5?style=for-the-badge&logo=academic-tree&logoColor=white" alt="Academic Degree" />
+    <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Global-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Location" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="https://github.com/apurba-ghosh"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/apurba-ghosh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:apurba.ghosh.tech@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/apurba-ghosh"><img src="https://img.shields.io/badge/GitHub-Follow%20%40apurba--ghosh-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=apurba-ghosh&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/apurba-ghosh?label=Followers&logo=github&style=flat-square&color=4F46E5" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/apurba-ghosh?label=Total%20Stars&logo=github&style=flat-square&color=8B5CF6" alt="GitHub Stars" />
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Staff Software Engineer & AI Systems Architect** with over half a decade of expertise architecting high-scale distributed backends, resilient cloud infrastructures, and production-grade Generative AI pipelines. I specialize in bridging research-grade deep learning frameworks with robust, low-latency enterprise software systems.
+
+- ⚙️ **Software Engineering Core:** Deep experience in designing distributed event-driven systems, fault-tolerant microservices, zero-trust backend security models, and high-concurrency data layers handling tens of thousands of requests per second.
+- 🧠 **AI & Machine Learning:** Architecting production Agentic Workflows (LangGraph, CrewAI), semantic retrieval engines (Hybrid Dense/Sparse RAG), model fine-tuning (LoRA/QLoRA), and high-throughput inference serving via vLLM and TensorRT-LLM.
+- 💻 **Full Stack Craftsmanship:** Engineering reactive, accessible, and high-performance user interfaces integrated with type-safe APIs, stateful WebSocket channels, and modern frontend design systems.
+- 🎯 **Product Engineering Mindset:** Ruthlessly prioritizing measurable business outcomes, deterministic observability (OpenTelemetry), developer velocity, and bulletproof operational reliability.
+- 💼 **Open To:** Staff / Principal Software Engineering, AI Platform Architecture, Technical Leadership, and advisory consultations on high-impact initiatives.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+<div align="center">
+
+### 💻 Languages & Core Runtime
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,go,rust,bash&theme=dark" alt="Languages" /></a>
+</p>
+
+### 🎨 Frontend Engineering
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,sass,vite,webpack&theme=dark" alt="Frontend Tech" /></a>
+</p>
+
+### ⚙️ Backend, Databases & Message Brokers
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,postgres,mongodb,redis,graphql,kafka,rabbitmq&theme=dark" alt="Backend & Storage" /></a>
+</p>
+
+### ☁️ Cloud, DevOps, Containers & Observability
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,linux,nginx,grafana,prometheus&theme=dark" alt="DevOps & Infrastructure" /></a>
+</p>
+
+</div>
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Core Architecture & Technical Capabilities |
+| :--- | :---: | :--- |
+| **Agentic Workflows & Multi-Agent Systems** | `Expert` | Autonomous swarms (LangGraph, CrewAI, AutoGen), dynamic state graphs, tool routing, memory hierarchies, human-in-the-loop validation |
+| **Enterprise RAG & Hybrid Retrieval** | `Expert` | Dense vector embeddings + Sparse BM25 / SPLADE hybrid search, Cohere rerankers, contextual chunking, Qdrant / Weaviate / Pinecone |
+| **Model Fine-Tuning & Quantization** | `Advanced` | PEFT, LoRA/QLoRA parameter-efficient tuning, DeepSpeed ZeRO-3, AWQ/GGUF/EXL2 quantization for distributed GPU cluster deployment |
+| **High-Throughput Inference Serving** | `Expert` | vLLM PagedAttention optimization, TensorRT-LLM, Triton Inference Server, continuous batching, streaming token protocols |
+| **Computer Vision & Multimodal Analysis** | `Advanced` | Vision-Language Models (VLM), Document OCR pipelines, CLIP/SigLIP multimodal embeddings, real-time edge object detection (YOLOv8) |
+| **MLOps, Lineage & Governance** | `Expert` | MLflow model tracking, Weights & Biases telemetry, Kubeflow pipeline orchestration, data drifting monitors, automated eval benchmarks |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔥 NexusRAG — Enterprise Multimodal Intelligence & Knowledge Engine</b></summary>
+<br />
+
+**NexusRAG** is an enterprise-grade hybrid retrieval-augmented generation engine engineered to process millions of heterogeneous technical documents, proprietary codebases, and unstructured datasets with sub-second semantic retrieval.
+
+| Metric / Dimension | Specification Details |
+| :--- | :--- |
+| **Tech Stack** | Python, FastAPI, LangGraph, Qdrant, Rust (Embedding Cache), React, Next.js, Redis, Docker |
+| **Scale** | Indexed 10M+ document chunks across distributed partitions with real-time continuous ingestion |
+| **Performance** | < 120ms p99 vector retrieval latency; 4.8x throughput acceleration using semantic query caching |
+| **Security** | Role-Based Access Control (RBAC), end-to-end vector level ACLs, and automated PII redaction layer |
+| **Impact** | Reduced enterprise internal query turnaround time by 78% across 1,500+ active enterprise users |
+| **Repository** | [View Source Code](https://github.com/apurba-ghosh/NexusRAG) |
+
+Built with a decoupled microservice architecture featuring asynchronous worker pools for recursive multi-document synthesis, query decomposition, and reciprocal rank fusion (RRF) for optimal relevance scoring.
+</details>
+
+<details>
+<summary><b>⚡ OmniMesh — High-Throughput Distributed Event-Driven Message Fabric</b></summary>
+<br />
+
+**OmniMesh** is a resilient, horizontally scalable distributed messaging and telemetry pipeline engineered to orchestrate mission-critical event propagation across multi-cloud environments.
+
+| Metric / Dimension | Specification Details |
+| :--- | :--- |
+| **Tech Stack** | Go, Apache Kafka, gRPC, Protocol Buffers, Kubernetes, Prometheus, Grafana, PostgreSQL |
+| **Scale** | Benchmarked at 150,000+ events/sec sustained throughput with zero packet dropping |
+| **Performance** | Sub-5ms end-to-end message delivery with adaptive consumer backpressure protocols |
+| **Security** | mTLS inter-service encryption, automated JWT claim validation, and strict schema validation |
+| **Impact** | Eliminated synchronous API bottlenecks and decreased downstream cascading failures to 0.001% |
+| **Repository** | [View Source Code](https://github.com/apurba-ghosh/OmniMesh) |
+
+Incorporates customized raft-consensus state machines for leader election, dynamic consumer partition rebalancing, and custom OpenTelemetry exporters for distributed tracing.
+</details>
+
+<details>
+<summary><b>🔬 PaperLens — AI-Powered Academic Research Workbench & Literature Synthesizer</b></summary>
+<br />
+
+**PaperLens** is an interactive, intelligent research platform designed to accelerate scientific paper comprehension, citation graph exploration, and cross-document mathematical formula extraction.
+
+| Metric / Dimension | Specification Details |
+| :--- | :--- |
+| **Tech Stack** | TypeScript, Next.js 14, Python, PyTorch, Neo4j Graph DB, Pinecone, TailwindCSS, Docker |
+| **Scale** | Ingested over 500,000+ arXiv & PubMed papers with complete citation graph networks |
+| **Performance** | Real-time multi-document question answering with streaming token generation (< 25ms TTFT) |
+| **Security** | Isolated sandboxed code-execution environments for dynamic data visualization and formula parsing |
+| **Impact** | Adopted by 3,000+ researchers globally to summarize and map complex multi-disciplinary domains |
+| **Repository** | [View Source Code](https://github.com/apurba-ghosh/PaperLens) |
+
+Utilizes graph neural networks for citation relevance prediction combined with localized agent swarms that critique, cross-reference, and verify factual assertions against primary sources.
+</details>
+
+<details>
+<summary><b>🛡️ AuraGuard — Real-Time Zero-Trust API Security & Anomaly Detection Gateway</b></summary>
+<br />
+
+**AuraGuard** is an edge-native intelligent reverse proxy and security gateway that leverages unsupervised machine learning to detect and mitigate malicious payload attacks and bot behavior in real time.
+
+| Metric / Dimension | Specification Details |
+| :--- | :--- |
+| **Tech Stack** | Rust, Actix-Web, ONNX Runtime, Redis, Envoy Proxy, ClickHouse, Docker, Helm |
+| **Scale** | Evaluates 50,000+ requests/sec per proxy instance with lightweight in-memory inference |
+| **Performance** | Introduces less than 1.8ms proxy inspection overhead to incoming HTTP/gRPC traffic |
+| **Security** | Automated IP reputation scoring, rate limiting via token bucket algorithms, and OWASP top 10 protection |
+| **Impact** | Prevented over 2.4M unauthorized credential-stuffing and DDoS requests in production environments |
+| **Repository** | [View Source Code](https://github.com/apurba-ghosh/AuraGuard) |
+
+Features dynamic machine learning model updates via WASM plugins, streaming analytics into ClickHouse for historical forensic analysis, and instant alerting webhooks.
+</details>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Lead AI & Distributed Systems Engineer | Apex Cloud Solutions
+*August 2023 – Present*
+- Spearheaded the design and deployment of enterprise-wide GenAI infrastructure and distributed backend microservices supporting 2M+ active consumers.
+- Reduced overall cloud computing expenditure by 34% by migrating monolithic inference pipelines to auto-scaling spot-instance Kubernetes clusters with vLLM.
+- Mentored a cross-functional team of 12 software and ML engineers on production reliability, clean code principles, CI/CD automation, and RFC design reviews.
+
+`Python` `Go` `Kubernetes` `AWS` `LangGraph` `Apache Kafka` `PostgreSQL` `Redis` `Terraform`
+
+---
+
+### 🏢 Senior Full Stack Software Engineer | Horizon Enterprise Labs
+*June 2021 – July 2023*
+- Architected and delivered high-concurrency financial analytics dashboards and low-latency transactional APIs with 99.99% operational uptime SLA.
+- Re-engineered legacy relational databases into optimized PostgreSQL schemas with read replicas and distributed Redis caches, cutting p95 query times by 62%.
+- Established automated testing suites (unit, integration, end-to-end) driving test coverage from 45% to over 92%.
+
+`TypeScript` `Next.js` `Node.js` `FastAPI` `Docker` `PostgreSQL` `GraphQL` `GCP` `Jest`
+
+---
+
+### 🏢 Software Engineer | Matrix Distributed Systems
+*July 2019 – May 2021*
+- Developed RESTful and gRPC microservices for distributed identity management, authentication, and access control.
+- Automated multi-region infrastructure provisioning using Terraform and GitHub Actions CI/CD pipelines.
+- Collaborated closely with product managers to deliver user-centric software features on compressed Agile iteration timelines.
+
+`Java` `Spring Boot` `Python` `MySQL` `Docker` `AWS` `CI/CD` `Linux` `Git`
+
+---
+
+## 🏆 Key Achievements & Recognitions
+
+<div align="center">
+
+| Recognition & Honor | Awarding Body / Context | Key Details & Significance |
+| :--- | :--- | :--- |
+| 🥇 **Grand Prize Winner** | Global AI & Cloud Innovations Hackathon | Built an autonomous edge-AI diagnostic assistant outperforming 450+ global teams |
+| 🌟 **Open Source Contributor** | GitHub & Open-Source Ecosystem | Maintained libraries with 5,000+ total GitHub stars and 100k+ package downloads |
+| 📑 **Technical Speaker & Author** | Cloud Native & AI Developer Summits | Delivered keynote lectures on *"Deploying High-Throughput LLMs in Production"* |
+| 🎯 **Top 1% Problem Solver** | Global Competitive Coding Platforms | Solved 1,200+ algorithmic and data structure problems with top percentile ratings |
+
+</div>
+
+---
+
+## 📜 Professional Certifications
+
+<div align="center">
+
+### ☁️ Amazon Web Services (AWS)
+<p>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA Pro" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
+</p>
+
+### ☕ Oracle
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java SE" />
+  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect-312E81?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI" />
+</p>
+
+### 🎓 NPTEL
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Elite%20Gold%20%7C%20Deep%20Learning-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Deep Learning" />
+  <img src="https://img.shields.io/badge/NPTEL-Elite%20Silver%20%7C%20Cloud%20Computing-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Cloud Computing" />
+</p>
+
+### 🌐 Cisco
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNA%20Enterprise%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps" />
+</p>
+
+</div>
+
+---
+
+## 💻 Competitive Programming & Coding Profiles
+
+<div align="center">
+  <p>
+    <a href="https://leetcode.com/apurba-ghosh" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <a href="https://auth.geeksforgeeks.org/user/apurba-ghosh" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+    &nbsp;
+    <a href="https://hackerrank.com/apurba-ghosh" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+    </a>
+    &nbsp;
+    <a href="https://codechef.com/users/apurba-ghosh" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 📊 GitHub Analytics & Repository Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=apurba-ghosh&show_icons=true&locale=en&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=818CF8&border_color=312E81&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurba-ghosh&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&border=312E81&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurba-ghosh&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&hide_border=false" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apurba-ghosh&theme=tokyonight&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurba-ghosh&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=false&border_color=312E81" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## ⚡ Current Focus & Engineering Roadmap
+
+```yaml
+engineer:
+  status: "Active & Shipping"
+  current_focus:
+    learning:
+      - "Distributed GPU Cluster Scheduling & vLLM PagedAttention internals"
+      - "Zero-copy network protocols & high-throughput memory engines in Rust"
+    building:
+      - "Autonomous multi-agent enterprise research & code reasoning platform"
+      - "Sub-millisecond distributed semantic caching proxy for frontier LLMs"
+    exploring:
+      - "Formal verification in distributed Byzantine fault-tolerant consensus"
+      - "Neuromorphic computing primitives & sparse spiking neural architectures"
+    open_to:
+      - "Staff / Principal Software Engineering & AI Architect Roles"
+      - "High-impact Open-Source Collaborations & Advisory Engagements"
