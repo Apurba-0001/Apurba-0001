@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0D1117,1E1B4B,4F46E5,7C3AED,A78BFA&height=240&section=header&text=Apurba%20Ghosh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0D1117,1E1B4B,4F46E5,7C3AED,A78BFA&height=240&section=header&text=Apurba%20Maji&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Distributed+Systems+%26+Cloud+Native+Backends;Production-Grade+LLM+Architecture+%26+Agent+Swarms;High-Throughput+Event-Driven+Microservices;Mission-Critical+Full+Stack+Product+Engineering" alt="Typing SVG" />
@@ -11,16 +11,16 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/apurba-ghosh"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/apurba-ghosh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:apurba.ghosh.tech@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/apurba-ghosh"><img src="https://img.shields.io/badge/GitHub-Follow%20%40apurba--ghosh-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Apurba--0001-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=apurba-ghosh&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/apurba-ghosh?label=Followers&logo=github&style=flat-square&color=4F46E5" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/apurba-ghosh?label=Total%20Stars&logo=github&style=flat-square&color=8B5CF6" alt="GitHub Stars" />
+    <img src="https://komarev.com/ghpvc/?username=Apurba-0001&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Apurba-0001?label=Followers&logo=github&style=flat-square&color=4F46E5" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Apurba-0001?label=Total%20Stars&logo=github&style=flat-square&color=8B5CF6" alt="GitHub Stars" />
   </p>
 </div>
 
