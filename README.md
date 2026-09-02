@@ -259,34 +259,6 @@ Features dynamic machine learning model updates via WASM plugins, streaming anal
 
 ---
 
-## 📊 GitHub Analytics & Repository Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=apurba-ghosh&show_icons=true&locale=en&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=818CF8&border_color=312E81&hide_border=false" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurba-ghosh&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&border=312E81&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurba-ghosh&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&hide_border=false" alt="Top Languages" />
-  </p>
-</div>
-
----
-
-## 🏆 GitHub Profile Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apurba-ghosh&theme=tokyonight&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Activity Graph
 
