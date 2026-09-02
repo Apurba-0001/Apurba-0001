@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0D1117,1E1B4B,4F46E5,7C3AED,A78BFA&height=240&section=header&text=Apurba%20Maji&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0D1117,1E1B4B,4F46E5,7C3AED,A78BFA&height=240&section=header&text=Apurba%20Maji&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Distributed+Systems+%26+Cloud+Native+Backends;Production-Grade+LLM+Architecture+%26+Agent+Swarms;High-Throughput+Event-Driven+Microservices;Mission-Critical+Full+Stack+Product+Engineering" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Staff Software Engineer & AI Systems Architect** with over half a decade of expertise architecting high-scale distributed backends, resilient cloud infrastructures, and production-grade Generative AI pipelines. I specialize in bridging research-grade deep learning frameworks with robust, low-latency enterprise software systems.
+I am a **Software Engineer & AI Systems Architect** with over half a decade of expertise architecting high-scale distributed backends, resilient cloud infrastructures, and production-grade Generative AI pipelines. I specialize in bridging research-grade deep learning frameworks with robust, low-latency enterprise software systems.
 
 - ⚙️ **Software Engineering Core:** Deep experience in designing distributed event-driven systems, fault-tolerant microservices, zero-trust backend security models, and high-concurrency data layers handling tens of thousands of requests per second.
 - 🧠 **AI & Machine Learning:** Architecting production Agentic Workflows (LangGraph, CrewAI), semantic retrieval engines (Hybrid Dense/Sparse RAG), model fine-tuning (LoRA/QLoRA), and high-throughput inference serving via vLLM and TensorRT-LLM.
