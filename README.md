@@ -263,7 +263,7 @@ Features dynamic machine learning model updates via WASM plugins, streaming anal
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurba-ghosh&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=false&border_color=312E81" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurba-0001&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=false&border_color=312E81" width="100%" alt="Activity Graph" />
 </div>
 
 ---
