@@ -81,46 +81,6 @@ I am a **Staff Software Engineer & AI Systems Architect** with over half a decad
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🔥 NexusRAG — Enterprise Multimodal Intelligence & Knowledge Engine</b></summary>
-<br />
-
-**NexusRAG** is an enterprise-grade hybrid retrieval-augmented generation engine engineered to process millions of heterogeneous technical documents, proprietary codebases, and unstructured datasets with sub-second semantic retrieval.
-
-| Metric / Dimension | Specification Details |
-| :--- | :--- |
-| **Tech Stack** | Python, FastAPI, LangGraph, Qdrant, Rust (Embedding Cache), React, Next.js, Redis, Docker |
-| **Scale** | Indexed 10M+ document chunks across distributed partitions with real-time continuous ingestion |
-| **Performance** | < 120ms p99 vector retrieval latency; 4.8x throughput acceleration using semantic query caching |
-| **Security** | Role-Based Access Control (RBAC), end-to-end vector level ACLs, and automated PII redaction layer |
-| **Impact** | Reduced enterprise internal query turnaround time by 78% across 1,500+ active enterprise users |
-| **Repository** | [View Source Code](https://github.com/apurba-ghosh/NexusRAG) |
-
-Built with a decoupled microservice architecture featuring asynchronous worker pools for recursive multi-document synthesis, query decomposition, and reciprocal rank fusion (RRF) for optimal relevance scoring.
-</details>
-
-<details>
-<summary><b>⚡ OmniMesh — High-Throughput Distributed Event-Driven Message Fabric</b></summary>
-<br />
-
-**OmniMesh** is a resilient, horizontally scalable distributed messaging and telemetry pipeline engineered to orchestrate mission-critical event propagation across multi-cloud environments.
-
-| Metric / Dimension | Specification Details |
-| :--- | :--- |
-| **Tech Stack** | Go, Apache Kafka, gRPC, Protocol Buffers, Kubernetes, Prometheus, Grafana, PostgreSQL |
-| **Scale** | Benchmarked at 150,000+ events/sec sustained throughput with zero packet dropping |
-| **Performance** | Sub-5ms end-to-end message delivery with adaptive consumer backpressure protocols |
-| **Security** | mTLS inter-service encryption, automated JWT claim validation, and strict schema validation |
-| **Impact** | Eliminated synchronous API bottlenecks and decreased downstream cascading failures to 0.001% |
-| **Repository** | [View Source Code](https://github.com/apurba-ghosh/OmniMesh) |
-
-Incorporates customized raft-consensus state machines for leader election, dynamic consumer partition rebalancing, and custom OpenTelemetry exporters for distributed tracing.
-</details>
-
-<details>
-<summary><b>🔬 PaperLens — AI-Powered Academic Research Workbench & Literature Synthesizer</b></summary>
-<br />
-
 **PaperLens** is an interactive, intelligent research platform designed to accelerate scientific paper comprehension, citation graph exploration, and cross-document mathematical formula extraction.
 
 | Metric / Dimension | Specification Details |
@@ -130,7 +90,7 @@ Incorporates customized raft-consensus state machines for leader election, dynam
 | **Performance** | Real-time multi-document question answering with streaming token generation (< 25ms TTFT) |
 | **Security** | Isolated sandboxed code-execution environments for dynamic data visualization and formula parsing |
 | **Impact** | Adopted by 3,000+ researchers globally to summarize and map complex multi-disciplinary domains |
-| **Repository** | [View Source Code](https://github.com/apurba-ghosh/PaperLens) |
+| **Repository** | [View Source Code](https://github.com/apurba-0001/PaperLens) |
 
 Utilizes graph neural networks for citation relevance prediction combined with localized agent swarms that critique, cross-reference, and verify factual assertions against primary sources.
 </details>
@@ -138,20 +98,6 @@ Utilizes graph neural networks for citation relevance prediction combined with l
 <details>
 <summary><b>🛡️ AuraGuard — Real-Time Zero-Trust API Security & Anomaly Detection Gateway</b></summary>
 <br />
-
-**AuraGuard** is an edge-native intelligent reverse proxy and security gateway that leverages unsupervised machine learning to detect and mitigate malicious payload attacks and bot behavior in real time.
-
-| Metric / Dimension | Specification Details |
-| :--- | :--- |
-| **Tech Stack** | Rust, Actix-Web, ONNX Runtime, Redis, Envoy Proxy, ClickHouse, Docker, Helm |
-| **Scale** | Evaluates 50,000+ requests/sec per proxy instance with lightweight in-memory inference |
-| **Performance** | Introduces less than 1.8ms proxy inspection overhead to incoming HTTP/gRPC traffic |
-| **Security** | Automated IP reputation scoring, rate limiting via token bucket algorithms, and OWASP top 10 protection |
-| **Impact** | Prevented over 2.4M unauthorized credential-stuffing and DDoS requests in production environments |
-| **Repository** | [View Source Code](https://github.com/apurba-ghosh/AuraGuard) |
-
-Features dynamic machine learning model updates via WASM plugins, streaming analytics into ClickHouse for historical forensic analysis, and instant alerting webhooks.
-</details>
 
 ---
 
@@ -239,31 +185,22 @@ Features dynamic machine learning model updates via WASM plugins, streaming anal
 
 <div align="center">
   <p>
-    <a href="https://leetcode.com/apurba-ghosh" target="_blank">
+    <a href="https://leetcode.com/u/apu1001" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
-    <a href="https://auth.geeksforgeeks.org/user/apurba-ghosh" target="_blank">
+    <a href="https://www.geeksforgeeks.org/profile/apurba000irlj" target="_blank">
       <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
     &nbsp;
-    <a href="https://hackerrank.com/apurba-ghosh" target="_blank">
+    <a href="https://www.hackerrank.com/profile/apurba0000apurba" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
     </a>
     &nbsp;
-    <a href="https://codechef.com/users/apurba-ghosh" target="_blank">
+    <a href="https://www.codechef.com/users/apu0000" target="_blank">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
     </a>
   </p>
-</div>
-
----
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurba-0001&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=false&border_color=312E81" width="100%" alt="Activity Graph" />
 </div>
 
 ---
