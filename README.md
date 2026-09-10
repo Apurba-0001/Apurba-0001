@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-View%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
     <a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Apurba--0001-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -90,7 +90,6 @@ I am a **Software Engineer & AI Systems Architect** with over half a decade of e
 | **Performance** | Real-time multi-document question answering with streaming token generation (< 25ms TTFT) |
 | **Security** | Isolated sandboxed code-execution environments for dynamic data visualization and formula parsing |
 | **Impact** | Adopted by 3,000+ researchers globally to summarize and map complex multi-disciplinary domains |
-| **Repository** | [View Source Code](https://github.com/apurba-0001/PaperLens) |
 
 Utilizes graph neural networks for citation relevance prediction combined with localized agent swarms that critique, cross-reference, and verify factual assertions against primary sources.
 </details>
