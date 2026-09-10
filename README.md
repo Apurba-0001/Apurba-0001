@@ -151,25 +151,6 @@ Utilizes graph neural networks for citation relevance prediction combined with l
 
 <div align="center">
 
-### ☁️ Amazon Web Services (AWS)
-<p>
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA Pro" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
-</p>
-
-### ☕ Oracle
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java SE" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect-312E81?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI" />
-</p>
-
-### 🎓 NPTEL
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Elite%20Gold%20%7C%20Deep%20Learning-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Deep Learning" />
-  <img src="https://img.shields.io/badge/NPTEL-Elite%20Silver%20%7C%20Cloud%20Computing-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Cloud Computing" />
-</p>
-
 ### 🌐 Cisco Networking Academy
 <p>
   <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy CyberOps Associate" />
