@@ -147,7 +147,7 @@ Utilizes graph neural networks for citation relevance prediction combined with l
 
 ---
 
-## 📜 Professional Certifications
+## 📜 Certifications & Professional Development
 
 <div align="center">
 
@@ -170,11 +170,19 @@ Utilizes graph neural networks for citation relevance prediction combined with l
   <img src="https://img.shields.io/badge/NPTEL-Elite%20Silver%20%7C%20Cloud%20Computing-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Cloud Computing" />
 </p>
 
-### 🌐 Cisco
+### 🌐 Cisco Networking Academy
 <p>
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20Enterprise%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps" />
+  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy CyberOps Associate" />
 </p>
+
+Completed through **NIIT Foundation** on **February 24, 2026**.
+
+### 💼 Forage | JPMorgan Chase & Co.
+<p>
+  <img src="https://img.shields.io/badge/Forage-JPMorgan%20Chase%20Software%20Engineering%20Job%20Simulation-0B4F71?style=for-the-badge" alt="JPMorgan Chase Software Engineering Job Simulation" />
+</p>
+
+Completed on **July 22, 2026**, with practical work in project setup, Kafka integration, H2 integration, and REST API development.
 
 </div>
 
