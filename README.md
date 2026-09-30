@@ -5,6 +5,7 @@
   <h3>Building practical full-stack and AI-powered applications, one project at a time.</h3>
 
   <p>
+    <a href="https://apurbamaji.in/"><img src="https://img.shields.io/badge/Portfolio-apurbamaji.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
     <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-Apurba--0001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -35,6 +36,7 @@
 
 I'm a Computer Science undergraduate at **Brainware University** who likes turning ideas into working products: MERN web apps, Flask tools, RAG-based AI systems, and offline-first mobile apps.
 
+- 🌐 Portfolio: **[apurbamaji.in](https://apurbamaji.in/)**
 - 🔭 Building **TiyraSense** for Smart India Hackathon 2026 and **PaperLens**, an AI research-paper analysis system
 - 🌱 Currently learning: embedded systems and Edge AI with Arduino
 - 📚 This semester: Distributed Systems, Computer Networks, Compiler Design, and AI
@@ -237,8 +239,10 @@ I'm a Computer Science undergraduate at **Brainware University** who likes turni
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Apurba-0001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba-0001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/Apurba-0001?label=Followers&logo=github&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Apurba-0001?label=Total%20Stars&logo=github&style=for-the-badge&color=8B5CF6" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Apurba-0001&query=$.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=0EA5E9" alt="Public repositories" />
+  <img src="https://img.shields.io/github/commit-activity/y/Apurba-0001/TiyraSense?label=TiyraSense%20Commits%20%2F%20Year&logo=git&style=for-the-badge&color=16A34A" alt="Commit activity" />
 </div>
 
 ## Contribution Snake
@@ -256,9 +260,11 @@ I'm a Computer Science undergraduate at **Brainware University** who likes turni
 
 <div align="center">
 
-<a href="https://github.com/Apurba-0001">GitHub</a> &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/apurba-maji-2k26">LinkedIn</a> &nbsp;|&nbsp;
-<a href="mailto:apurba000apurba@gmail.com">apurba000apurba@gmail.com</a>
+<a href="https://apurbamaji.in/"><img src="https://img.shields.io/badge/Portfolio-apurbamaji.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-Apurba--0001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-Apurba%20Maji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Gmail-apurba000apurba-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/apu1001"><img src="https://img.shields.io/badge/LeetCode-apu1001-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 <br/><br/>
 
