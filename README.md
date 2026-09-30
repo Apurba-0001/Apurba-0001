@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=APURBA%20MAJI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Developer%20%7C%20B.Tech%20CSE&descSize=18&descAlignY=61&descColor=A78BFA" width="100%" alt="Apurba Maji" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=APURBA%20MAJI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20and%20AI%20Developer%20%7C%20B.Tech%20CSE&descSize=18&descAlignY=61&descColor=A78BFA" width="100%" alt="Apurba Maji" />
 
   <h3>Building practical full-stack and AI-powered applications, one project at a time.</h3>
 
