@@ -42,14 +42,99 @@ I'm a Computer Science undergraduate at **Brainware University** who likes turni
 
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,bash&theme=dark" alt="Languages" /><br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter&theme=dark" alt="Frontend and mobile" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,postgres,redis,supabase&theme=dark" alt="Backend and data" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="Tools" />
-
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">💻 Languages</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">🎨 Frontend & Mobile</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">⚙️ Backend & APIs</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+        <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">🗄️ Databases & Storage</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">🤖 AI & Machine Learning</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+        <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">🧰 DevOps & Tools</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">🐧 Systems & Networking</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">🌱 Currently Learning</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/Edge_AI-FF6F00?style=for-the-badge" alt="Edge AI" />
+        <img src="https://img.shields.io/badge/Embedded_Systems-334155?style=for-the-badge" alt="Embedded Systems" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Featured Projects
 
