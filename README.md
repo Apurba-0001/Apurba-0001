@@ -5,10 +5,10 @@
   <h3>Building practical full-stack and AI-powered applications, one project at a time.</h3>
 
   <p>
-    <a href="https://apurbamaji.in/"><img src="https://img.shields.io/badge/Portfolio-apurbamaji.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-    <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-Apurba--0001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://apurbamaji.in/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <p>
@@ -229,10 +229,10 @@ I'm a Computer Science undergraduate at **Brainware University** who likes turni
 
 <div align="center">
 
-<a href="https://leetcode.com/u/apu1001"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/profile/apurba000irlj"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/profile/apurba0000apurba"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-<a href="https://www.codechef.com/users/apu0000"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://leetcode.com/u/apu1001"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.geeksforgeeks.org/profile/apurba000irlj"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.hackerrank.com/profile/apurba0000apurba"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<a href="https://www.codechef.com/users/apu0000"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
 
@@ -260,11 +260,11 @@ I'm a Computer Science undergraduate at **Brainware University** who likes turni
 
 <div align="center">
 
-<a href="https://apurbamaji.in/"><img src="https://img.shields.io/badge/Portfolio-apurbamaji.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-<a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-Apurba--0001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-Apurba%20Maji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Gmail-apurba000apurba-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/u/apu1001"><img src="https://img.shields.io/badge/LeetCode-apu1001-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://apurbamaji.in/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Apurba-0001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/apurba-maji-2k26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:apurba000apurba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/apu1001"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 <br/><br/>
 
