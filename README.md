@@ -240,7 +240,7 @@ I'm a Computer Science undergraduate at **Brainware University** who likes turni
   <img src="https://img.shields.io/github/followers/Apurba-0001?label=Followers&logo=github&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Apurba-0001?label=Total%20Stars&logo=github&style=for-the-badge&color=8B5CF6" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Apurba-0001&query=$.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=0EA5E9" alt="Public repositories" />
-  <img src="https://img.shields.io/github/commit-activity/y/Apurba-0001?label=Commits%20%2F%20Year&logo=git&style=for-the-badge&color=16A34A" alt="Commit activity" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AApurba-0001&query=%24.total_count&label=Total%20Commits&logo=git&logoColor=white&style=for-the-badge&color=16A34A" alt="Total commits" />
 </div>
 
 ## Contribution Snake
